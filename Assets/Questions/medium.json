@@ -1,0 +1,602 @@
+[
+   {
+      "category":"Sports",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"At which bridge does the annual Oxford and Cambridge boat race start?",
+      "correct_answer":"Putney",
+      "incorrect_answers":[
+         "Hammersmith",
+         "Vauxhall ",
+         "Battersea"
+      ]
+   },
+   {
+      "category":"Entertainment: Comics",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+      "correct_answer":"Zodiac",
+      "incorrect_answers":[
+         "Scorpio",
+         "Tiger Mafia",
+         "The Union"
+      ]
+   },
+   {
+      "category":"Art",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+      "correct_answer":"2\/2",
+      "incorrect_answers":[
+         "4\/4",
+         "6\/8",
+         "3\/4"
+      ]
+   },
+   {
+      "category":"Entertainment: Television",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, &#039;Top Gear&#039;?",
+      "correct_answer":"Jessica",
+      "incorrect_answers":[
+         "Angela",
+         "Erica",
+         "Sandra"
+      ]
+   },
+   {
+      "category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which of these stars is the largest?",
+      "correct_answer":"UY Scuti",
+      "incorrect_answers":[
+         "VY Canis Majoris",
+         "Betelgeuse",
+         "RW Cephei"
+      ]
+   },
+   {
+      "category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What mineral has the lowest number on the Mohs scale?",
+      "correct_answer":"Talc",
+      "incorrect_answers":[
+         "Quartz",
+         "Diamond",
+         "Gypsum"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which of these features was added in the 1994 game &quot;Heretic&quot; that the original &quot;DOOM&quot; could not add due to limitations?",
+      "correct_answer":"Looking up and down",
+      "incorrect_answers":[
+         "Increased room sizes",
+         "Unlimited weapons",
+         "Highly-detailed textures"
+      ]
+   },
+   {
+      "category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+      "correct_answer":"Germany",
+      "incorrect_answers":[
+         "Britain",
+         "Belgium",
+         "France"
+      ]
+   },
+   {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",
+      "correct_answer":"Trance",
+      "incorrect_answers":[
+         "House",
+         "Drum and Bass",
+         "Dubstep"
+      ]
+   },
+   {
+      "category":"Vehicles",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+      "correct_answer":"Alfa Romeo",
+      "incorrect_answers":[
+         "Auto Union",
+         "Mercedes Benz",
+         "Bentley"
+      ]
+   },
+   {
+      "category":"Sports",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which nation hosted the FIFA World Cup in 2006?",
+      "correct_answer":"Germany",
+      "incorrect_answers":[
+         "United Kingdom",
+         "Brazil",
+         "South Africa"
+      ]
+   },
+   {
+      "category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+      "correct_answer":"USS Pueblo",
+      "incorrect_answers":[
+         "USS North Carolina",
+         "USS Constitution",
+         "USS Indianapolis"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+      "correct_answer":"Tetris",
+      "incorrect_answers":[
+         "Jenga",
+         "Boulder Dash",
+         "Puzzled"
+      ]
+   },
+   {
+      "category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Where did the dog breed &quot;Chihuahua&quot; originate?",
+      "correct_answer":"Mexico",
+      "incorrect_answers":[
+         "France",
+         "Spain",
+         "Russia"
+      ]
+   },
+   {
+      "category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the atomic number of the element Strontium?",
+      "correct_answer":"38",
+      "incorrect_answers":[
+         "73",
+         "47",
+         "11"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which of these Counter-Strike maps is a bomb defuse scenario?",
+      "correct_answer":"Prodigy",
+      "incorrect_answers":[
+         "747",
+         "Havana",
+         "Oilrig"
+      ]
+   },
+   {
+      "category":"General Knowledge",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the romanized Japanese word for &quot;university&quot;?",
+      "correct_answer":"Daigaku",
+      "incorrect_answers":[
+         "Toshokan",
+         "Jimusho",
+         "Shokudou"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+      "correct_answer":"Television Remote",
+      "incorrect_answers":[
+         "Tablet",
+         "Hairdryer",
+         "Flip Phone"
+      ]
+   },
+   {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which one of these Manga titles was not created by Urasawa Naoki?",
+      "correct_answer":"My Father&#039;s Journal",
+      "incorrect_answers":[
+         "Billy Bat",
+         "20th Century Boys",
+         "Monster"
+      ]
+   },
+   {
+      "category":"Entertainment: Film",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+      "correct_answer":"Peter Cushing",
+      "incorrect_answers":[
+         "Boris Karloff",
+         "Vincent Price",
+         "Lon Chaney Jr."
+      ]
+   },
+   {
+      "category":"Entertainment: Film",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which one of these action movies are shot entirely in one take?",
+      "correct_answer":"Victoria",
+      "incorrect_answers":[
+         "Ip Man 2",
+         "The Bourne Legacy",
+         "L&eacute;on: The Professional"
+      ]
+   },
+   {
+      "category":"Entertainment: Film",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+      "correct_answer":"Harrison Ford",
+      "incorrect_answers":[
+         "Michael J. Fox",
+         "Andy Kaufman",
+         "Arnold Schwarzenegger"
+      ]
+   },
+   {
+      "category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Who tutored Alexander the Great?",
+      "correct_answer":"Aristotle",
+      "incorrect_answers":[
+         "Socrates",
+         "Plato",
+         "King Philip"
+      ]
+   },
+   {
+      "category":"Mythology",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In Greek Mythology, who killed Achilles?",
+      "correct_answer":"Paris",
+      "incorrect_answers":[
+         "Hector",
+         "Helen",
+         "Pericles"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Who created the pump &quot;F.L.U.D.D.&quot; Mario uses in Super Mario Sunshine?",
+      "correct_answer":"Elvin Gadd",
+      "incorrect_answers":[
+         "Robert Fludd",
+         "Nirona",
+         "Crygor"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+      "correct_answer":"Half Life 2",
+      "incorrect_answers":[
+         "Team Fortress 2",
+         "Dark Souls",
+         "Serious Sam: The Second Encounter"
+      ]
+   },
+   {
+      "category":"Entertainment: Film",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In what year was the movie &quot;Police Academy&quot; released?",
+      "correct_answer":"1984",
+      "incorrect_answers":[
+         "1986",
+         "1985",
+         "1983"
+      ]
+   },
+   {
+      "category":"Vehicles",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Volkswagen&#039;s legendary VR6 engine has cylinders positioned at what degree angle?",
+      "correct_answer":"15 Degree",
+      "incorrect_answers":[
+         "30 Degree",
+         "45 Degree",
+         "90 Degree"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+      "correct_answer":"Eye of Cthulhu",
+      "incorrect_answers":[
+         "Plantera",
+         "Skeletron Prime",
+         "The Destroyer"
+      ]
+   },
+   {
+      "category":"Entertainment: Film",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+      "correct_answer":"October 21, 2015",
+      "incorrect_answers":[
+         "August 28, 2015",
+         "July 20, 2015",
+         "January 25, 2015"
+      ]
+   },
+   {
+      "category":"Celebrities",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+      "correct_answer":"Joe DiMaggio",
+      "incorrect_answers":[
+         "Tino Martinez",
+         "Babe Ruth",
+         "Mason Williams"
+      ]
+   },
+   {
+      "category":"Entertainment: Music",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?",
+      "correct_answer":"Swedish",
+      "incorrect_answers":[
+         "Hungarian",
+         "Finnish",
+         "Chinese"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In &quot;Fallout 4&quot;, what is the name of the dog you find at Red Rocket truck stop?",
+      "correct_answer":"Dogmeat",
+      "incorrect_answers":[
+         "Sparky",
+         "Quazar",
+         "Chop"
+      ]
+   },
+   {
+      "category":"General Knowledge",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What was Mountain Dew&#039;s original slogan?",
+      "correct_answer":"Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+      "incorrect_answers":[
+         "Give Me A Dew",
+         "Do The Dew",
+         "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+      ]
+   },
+   {
+      "category":"Entertainment: Television",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+      "correct_answer":"Stef&aacute;n Stef&aacute;nsson",
+      "incorrect_answers":[
+         "Adam Sandler",
+         "Magn&uacute;s Scheving",
+         "Stephen Carl"
+      ]
+   },
+   {
+      "category":"Entertainment: Television",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+      "correct_answer":"Once you have their money, you never give it back. ",
+      "incorrect_answers":[
+         "Never place friendship above profit",
+         "Greed is Eternal",
+         "Never allow family to stand in the way of opportunity"
+      ]
+   },
+   {
+      "category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which of the following countries was the first to send an object into space?",
+      "correct_answer":"Germany",
+      "incorrect_answers":[
+         "USA",
+         "Russia",
+         "China"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which of these blocks in &quot;Minecraft&quot; has the lowest blast resistance?",
+      "correct_answer":"Sand",
+      "incorrect_answers":[
+         "End Stone",
+         "Water",
+         "Wood Planks"
+      ]
+   },
+   {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+      "correct_answer":"Poison Potato",
+      "incorrect_answers":[
+         "Mors Oil",
+         "Alpacookie",
+         "Parmesansho Fruit"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the name of the first level in &quot;Call of Duty: World at War&quot;?",
+      "correct_answer":"Semper Fi",
+      "incorrect_answers":[
+         "Ring of Steel",
+         "Vendetta",
+         "Eviction"
+      ]
+   },
+   {
+      "category":"Entertainment: Video Games",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+      "correct_answer":"Double Tap Root Beer",
+      "incorrect_answers":[
+         "Who&#039;s Who",
+         "Juggernog",
+         "Mule Kick"
+      ]
+   },
+   {
+      "category":"Politics",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "correct_answer":"Nikita Khrushchev",
+      "incorrect_answers":[
+         "Leonid Brezhnev",
+         "Mikhail Gorbachev",
+         "Boris Yeltsin"
+      ]
+   },
+   {
+      "category":"Politics",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "correct_answer":"The Kingfish",
+      "incorrect_answers":[
+         "The Champ",
+         "The Hoot Owl",
+         "The Oracle"
+      ]
+   },
+   {
+      "category":"Celebrities",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+      "correct_answer":"Bing Crosby",
+      "incorrect_answers":[
+         "Elvis Presley",
+         "Charlie Chaplin",
+         "Groucho Marx"
+      ]
+   },
+   {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"In &quot;Puella Magi Madoka Magica&quot;, what is the first name of Madoka&#039;s younger brother?",
+      "correct_answer":"Tatsuya",
+      "incorrect_answers":[
+         "Montoya",
+         "Tomohisa",
+         "Minato"
+      ]
+   },
+   {
+      "category":"General Knowledge",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Which company&#039;s original slogan was &quot;Don&#039;t be evil&quot;?",
+      "correct_answer":"Google",
+      "incorrect_answers":[
+         "Apple",
+         "Yahoo",
+         "Microsoft"
+      ]
+   },
+   {
+      "category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"The Korean War started in what year?",
+      "correct_answer":"1950",
+      "incorrect_answers":[
+         "1945",
+         "1960",
+         "1912"
+      ]
+   },
+   {
+      "category":"Animals",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What is the name for a male bee that comes from an unfertilized egg?",
+      "correct_answer":"Drone",
+      "incorrect_answers":[
+         "Soldier",
+         "Worker",
+         "Male"
+      ]
+   },
+   {
+      "category":"Geography",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"How many states are in Australia?",
+      "correct_answer":"6",
+      "incorrect_answers":[
+         "7",
+         "8",
+         "5"
+      ]
+   },
+   {
+      "category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"Where did the Great Storm of 1987 make landfall at, first?",
+      "correct_answer":"Cornwall",
+      "incorrect_answers":[
+         "Surrey",
+         "Wales",
+         "The Midlands"
+      ]
+   }
+]

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -8,17 +9,23 @@ using Newtonsoft.Json.Linq;
 
 namespace JSONQuestionParser
 {
+
+
+
     class MainClass
     {
-        
+
+        private static Random rng = new Random();
+
+
 
         public static void Main(string[] args)
         {
             // Read in the json file
-            List<Question> eq = (List<Question>) LoadQuestions();
+            List<Question> eq = (List<Question>)LoadQuestions();
             Question[] easy = eq.ToArray();
 
-        
+
             Console.WriteLine("-------------- Question --------------");
             easy[21].question.Replace("&quot;", "'");
             Console.WriteLine(easy[21].question);
@@ -33,17 +40,19 @@ namespace JSONQuestionParser
             possibleAnswer.Add(eq[20].incorrect_answers[1]);
             possibleAnswer.Add(eq[20].incorrect_answers[2]);
 
+    
+
             int count = 0;
 
-            foreach(string a in possibleAnswer)
+            foreach (string a in possibleAnswer)
             {
                 count++;
-                Console.WriteLine(count+". "+a);
+                Console.WriteLine(count + ". " + a);
             }
-            
+
 
             Console.ReadLine();
-            
+
         }
 
         public static IList<Question> LoadQuestions()
@@ -54,8 +63,12 @@ namespace JSONQuestionParser
             // Create a Jsonreader and read 
             JsonTextReader reader = new JsonTextReader(new StringReader(jb));
             IList<Question> fg = JsonConvert.DeserializeObject<List<Question>>(jb);
-            
+
             return fg;
         }
+
+
+
+
     }
 }

@@ -28,6 +28,7 @@ public class JSONParser : MonoBehaviour
 
 
 
+
     }
 
     
@@ -42,7 +43,6 @@ public class QuestionList
 [System.Serializable]
 public class Question
 {
-
     public string category;
     public string type;
     public string difficulty;

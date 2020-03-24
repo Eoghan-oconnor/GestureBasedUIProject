@@ -36,7 +36,11 @@ TextureImporter:
     mipBias: -100
     wrapU: 1
     wrapV: 1
+<<<<<<< HEAD
+    wrapW: -1
+=======
     wrapW: 1
+>>>>>>> 3d38944828231f33a33c68f53f25dafd49de119d
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -81,7 +85,11 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
+<<<<<<< HEAD
+    buildTarget: Windows Store Apps
+=======
     buildTarget: Android
+>>>>>>> 3d38944828231f33a33c68f53f25dafd49de119d
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -92,7 +100,11 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
+<<<<<<< HEAD
+    buildTarget: WebGL
+=======
     buildTarget: Windows Store Apps
+>>>>>>> 3d38944828231f33a33c68f53f25dafd49de119d
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -108,7 +120,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
+    spriteID: b336ca21b54d4d04cb2cff1697c27a09
+=======
     spriteID: baac616bcb650c1449ff541046fe99c3
+>>>>>>> 3d38944828231f33a33c68f53f25dafd49de119d
     vertices: []
     indices: 
     edges: []

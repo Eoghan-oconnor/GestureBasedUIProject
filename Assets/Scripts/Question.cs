@@ -1,24 +1,20 @@
-﻿using System;
+﻿using UnityEngine;
 
-namespace JSONQuestionParser
+[System.Serializable]
+public class Question
 {
-    public class Question
-    {
-        public Question(String category, String type, String difficulty, String question, String correct_answer, String[] wrong_answers)
-        {
-            this.category = category;
-            this.type = type;
-            this.difficulty = difficulty;
-            this.question = question;
-            this.correct_answer = correct_answer;
-            this.incorrect_answers = incorrect_answers;
-        }
 
-        public String category { get; set; }
-        public String type { get; set; }
-        public String difficulty { get; set; }
-        public String question { get; set; }
-        public String correct_answer { get; set; }
-        public String[] incorrect_answers { get; set; }
+    public String category;
+    public String type;
+    public String difficulty;
+    public String question;
+    public String correct_answer;
+    public String[] incorrect_answers;
+
+   public static Question CreateFromJSON(string jsonString)
+    {
+        return JsonUtility.FromJson<Question>(jsonString);
     }
+
 }
+
